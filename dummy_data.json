@@ -1,0 +1,31 @@
+{
+    "shrt.lnk/abc": {
+      "clicks": 42,
+      "long_link": "www.testlink.com/gdjssdhbjhbsdjhbdbjshbsdjhbsjbdjshbd",
+      "country_distribution": {
+        "india" : 45,
+        "china" : 25,
+        "srilanka" : 30
+      },
+      "browser_distribution" : {
+        "chrome" : 55,
+        "firefox"  : 30,
+        "safari" : 15
+      }
+    },
+    "shrt.lnk/def": {
+        "clicks": 57,
+        "long_link": "www.testlink.com/gdjssdhbjhbsdjhbdbjshbsdjhbsjbdjshbd",
+        "country_distribution": {
+          "india" : 20,
+          "china" : 15,
+          "srilanka" : 65
+        },
+        "browser_distribution" : {
+          "chrome" : 55,
+          "firefox"  : 30,
+          "safari" : 15
+        }
+      }
+    
+}
